@@ -1,0 +1,6 @@
+{
+		"Host": "127.0.0.1",
+		"TcpPort": 9851,
+		"MaxConn":3,
+		"WorkerPoolSize": 10
+}
